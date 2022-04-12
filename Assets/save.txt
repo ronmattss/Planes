@@ -1,0 +1,1 @@
+{"Currency":16,"HighScore":105}

@@ -1,0 +1,1 @@
+{"purchasableData":[{"price":100,"isUnlocked":false,"isInApp":true,"realPrice":0.9900000095367432,"name":"SpitFighter"},{"price":150,"isUnlocked":false,"isInApp":false,"realPrice":0.9900000095367432,"name":"Jet"},{"price":0,"isUnlocked":true,"isInApp":false,"realPrice":0.0,"name":"V2Fighter"},{"price":100,"isUnlocked":false,"isInApp":true,"realPrice":1.0,"name":"V3Fighter"}]}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df160facd3944396a36e931dbdc05585, type: 3}
+  m_Name: V3Fighter
+  m_EditorClassIdentifier: 
+  aircraftStats:
+    model: V3Fighter
+    topSpeed: 12
+    acceleration: 0
+    turnRate: 0.95
+    health: 100
+    armor: 0
+    classification: 0
+  planeSprite: {fileID: 21300000, guid: c7179d022f0414f4bb114e95136675ef, type: 3}
+  planeEngine: {fileID: 8300000, guid: 77d8f4be544483a46ab4ff1beb9c378c, type: 3}
+  weapons:
+  - {fileID: 11400000, guid: efbf57ef95194c1488461151dbbc1182, type: 2}
